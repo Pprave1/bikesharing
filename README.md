@@ -11,12 +11,13 @@ The purpose of the project is  to convince  investors that a bike-sharing progra
    ![Deliverable1.png](images/Deliverable1.png)
   
   ### Created Visualizations for Trip Analysis
-    Using Tablleau,visualization of data was created
+    Using Tableau,visualization of data was created
     
    #### Created the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
     ![Checkout_time_Users.png](images/Checkout_time_Users.png)
+    
    
   ### Created checkout times by Gender
    
