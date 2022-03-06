@@ -43,7 +43,7 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    
    ### Created a story in Tableau
    
-   !Story.png](images/Story.png)
+   ![Story.png](images/Story.png)
    
      
    
