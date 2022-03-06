@@ -18,4 +18,11 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    
    ![Checkout_time_Users.png](images/Checkout_time_Users.png)
    
+   ### Created checkout times by Gender
+   
+ The checkout times by Gender graph shows Males are significantly higher users than others
+
+ ![Checkout_Times_Gender.png](images/Checkout_Times_Gender.png)
+ 
+   
   
