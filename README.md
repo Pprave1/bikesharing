@@ -8,4 +8,4 @@ The purpose of the project was to convince  investors that a bike-sharing progra
  Using Jupyter Notebook changed the trip duration data to a datetime field with correct time format.
  
  
-  ![Deliverable1.png](Resources/images/Deliverable1.png)
+  ![Deliverable1.png](Resources/Deliverable1.png)
