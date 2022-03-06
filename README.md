@@ -32,7 +32,8 @@ The purpose of the project was to convince  investors that a bike-sharing progra
   ### Created the trips by Gender (wd/hr)
   Trips by Gender graph shows Males are high users during peak hours.
   
-    ![Trips_Gender_wd_hr.png](images/Trips_Gender_wd_hr.png)
+  ![Trips_Gender_wd_hr.png](images/Trips_Gender_wd_hr.png)
+    
   
   
  
