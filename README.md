@@ -13,7 +13,7 @@ The purpose of the project was to convince  investors that a bike-sharing progra
   ### Created Visualizations for Trip Analysis
     Using Tablleau,visualization of data was created
     
-   #### Create the Checkout Times for Users Viz
+   #### Created the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
     ![Checkout_time_Users.png](images/Checkout_time_Users.png)
@@ -24,9 +24,16 @@ The purpose of the project was to convince  investors that a bike-sharing progra
 
    ![Checkout_Times_Gender.png](images/Checkout_Times_Gender.png)
  
-  ###  Create the Trips by Weekday for Each Hour Viz
- Trips by Weekday for Each Hour Viz graph shows ,peak riding on weekdays is from 6am-9am and 4pm-9pm and omn weekends 7am-9pm
+  ###  Created the Trips by Weekday for Each Hour Viz
+ Trips by Weekday for Each Hour Viz graph shows ,peak riding on weekdays is from 6am-9am and 4pm-9pm and on weekends 7am-9pm
+ 
   ![Trips_Weekday_Eachhour.png](images/Trips_Weekday_Eachhour.png)
+  
+  ### Created the trips by Gender (wd/hr)
+  Trips by Gender graph shows Males are high users during peak hours.
+  
+    ![Trips_Gender_wd_hr.png](images/Trips_Gender_wd_hr.png)
+  
   
  
  
