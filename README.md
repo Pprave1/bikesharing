@@ -33,6 +33,14 @@ The purpose of the project was to convince  investors that a bike-sharing progra
   Trips by Gender graph shows Males are high users during peak hours.
   
   ![Trips_Gender_wd_hr.png](images/Trips_Gender_wd_hr.png)
+  
+  ### Created the User Trips by Gender by Weekday
+  
+  Male Dubscribers are high followed by Female subscribers
+  
+   ![User_Trips_Gender_wd.png](images/User_Trips_Gender_wd.png)
+   
+  
     
   
   
