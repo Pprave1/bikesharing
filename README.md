@@ -45,8 +45,6 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    ![August_peakhour.png](images/August_peakhour.png)
    
    
-   
-   
    ### Created a story in Tableau
    
    ![Story.png](images/Story.png)
