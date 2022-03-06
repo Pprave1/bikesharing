@@ -8,7 +8,7 @@ The purpose of the project was to convince  investors that a bike-sharing progra
  Using Jupyter Notebook changed the trip duration data to a datetime field with correct time format.
  
  
-  ![Deliverable1.png](images/Deliverable1.png)
+   ![Deliverable1.png](images/Deliverable1.png)
   
   ### Created Visualizations for Trip Analysis
     Using Tablleau,visualization of data was created
@@ -16,13 +16,18 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    #### Create the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
-   ![Checkout_time_Users.png](images/Checkout_time_Users.png)
+    ![Checkout_time_Users.png](images/Checkout_time_Users.png)
    
-   ### Created checkout times by Gender
+  ### Created checkout times by Gender
    
  The checkout times by Gender graph shows Males are significantly higher users than others
 
- ![Checkout_Times_Gender.png](images/Checkout_Times_Gender.png)
+   ![Checkout_Times_Gender.png](images/Checkout_Times_Gender.png)
+ 
+  ###  Create the Trips by Weekday for Each Hour Viz
+ Trips by Weekday for Each Hour Viz graph shows ,peak riding on weekdays is from 6am-9am and 4pm-9pm and omn weekends 7am-9pm
+  ![Trips_Weekday_Eachhour.png](images/Trips_Weekday_Eachhour.png)
+  
  
  
  
