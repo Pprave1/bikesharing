@@ -8,6 +8,7 @@ The purpose of the project is  to convince  investors that a bike-sharing progra
  Using Jupyter Notebook changed the trip duration data to a datetime field with correct time format.
  
  
+ 
    ![Deliverable1.png](images/Deliverable1.png)
   
   ### Created Visualizations for Trip Analysis
@@ -16,6 +17,7 @@ The purpose of the project is  to convince  investors that a bike-sharing progra
    #### Created the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
+    https://public.tableau.com/app/profile/priya6778
    
    ![Checkout_time_Users.png](images/Checkout_time_Users.png)
     
