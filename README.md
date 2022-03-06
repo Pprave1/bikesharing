@@ -16,7 +16,9 @@ The purpose of the project is  to convince  investors that a bike-sharing progra
    #### Created the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
-    ![Checkout_time_Users.png](images/Checkout_time_Users.png)
+   
+   ![Checkout_time_Users.png](images/Checkout_time_Users.png)
+    
     
    
   ### Created checkout times by Gender
