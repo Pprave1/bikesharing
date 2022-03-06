@@ -40,6 +40,12 @@ The purpose of the project was to convince  investors that a bike-sharing progra
   
    ![User_Trips_Gender_wd.png](images/User_Trips_Gender_wd.png)
    
+   
+   ### Created a story in Tableau
+   
+     !Story.png](images/Story.png)
+     
+   
   
     
   
