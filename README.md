@@ -54,10 +54,11 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    
    ### Summary
    
-   In NYC August month has high peak riding hours that is from from 5pm to 7pm.Based on this bar chart maintainance can be performed from 2am to 5am.From graph analysis shows
+   In NYC August month has high peak riding hours that is from from 5pm to 7pm.Based on this bar chart maintainance can be performed from 2am to 5am.
+   From graph analysis shows Males subscribers are the highest users and follow high use time.
    
-   Males subscribers are the highest users and follow high use time.
    
+    
    
    
    
