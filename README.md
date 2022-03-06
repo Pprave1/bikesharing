@@ -17,7 +17,6 @@ The purpose of the project is  to convince  investors that a bike-sharing progra
    #### Created the Checkout Times for Users Viz
    The bike usage reaches a top 146k minutes per user
    
-    https://public.tableau.com/app/profile/priya6778
    
    ![Checkout_time_Users.png](images/Checkout_time_Users.png)
     
