@@ -41,7 +41,8 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    ![User_Trips_Gender_wd.png](images/User_Trips_Gender_wd.png)
    
    August is the  month having peak riding hours
-   ![August_peakhour](images/August_peakhour.png)
+   
+   ![August_peakhour.png](images/August_peakhour.png)
    
    
    
