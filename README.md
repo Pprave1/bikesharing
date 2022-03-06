@@ -45,6 +45,8 @@ The purpose of the project was to convince  investors that a bike-sharing progra
    
    
   ![August_peak_hour.png](images/August_peak_hour.png)
+  
+  
    
    
    
